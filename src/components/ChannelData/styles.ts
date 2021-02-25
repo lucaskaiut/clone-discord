@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { AlternateEmail } from 'styled-icons/material';
 
 export const Container = styled.div`
   grid-area: CD;
