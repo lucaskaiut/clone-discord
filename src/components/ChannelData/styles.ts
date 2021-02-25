@@ -56,18 +56,4 @@ export const Input = styled.input`
   &::placeholder {
     color: var(--gray);
   }
-
-  ~ svg {
-    position: relative;
-    top: -50%;
-    left: 14px;
-    transition: 180ms ease-in-out;
-  }
-`;
-
-export const InputIcon = styled(AlternateEmail)`
-  width: 24px;
-  height: 24px;
-
-  color: var(--gray);
 `;

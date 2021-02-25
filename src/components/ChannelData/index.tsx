@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from 'react';
 
-import { Container, Messages, InputWrapper, Input, InputIcon } from './styles';
+import { Container, Messages, InputWrapper, Input } from './styles';
 
 import ChannelMessage, { Mention } from '../ChannelMessage';
 
